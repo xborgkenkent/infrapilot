@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "infrapilot": {
+      "command": "/absolute/path/to/infrapilot/bin/infrapilot",
+      "args": ["-config", "/absolute/path/to/infrapilot/config.json"],
+      "env": {
+        "INFRAPILOT_AWS_REGION": "us-east-1"
+      }
+    }
+  }
+}

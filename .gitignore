@@ -1,0 +1,4 @@
+bin/
+*.db
+config.json
+.DS_Store
